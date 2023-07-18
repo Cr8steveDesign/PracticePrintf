@@ -3,7 +3,7 @@
 
 ### Collaborators: 
 - `Stephen Omoregie: @Cr8SteveDesign`
-- `Favour: Enter your name here`
+- `Favour: @callmeKORRA03`
 
 ### Files
 - `test-main.c` <br>
