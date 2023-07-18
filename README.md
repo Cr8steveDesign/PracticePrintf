@@ -18,9 +18,9 @@
 
 These functions are implemented in the following files (as named): 
 - `_putchar.c`<br>
-    Function for writing characters to stdout.
+    Function for writing characters to stdout. `DONE`
 - `_puts.c`<br>
-    Function for writing strings to stdout.
+    Function for writing strings to stdout. `DONE`
 - `_printint.c`<br>
     Function for printing out integers to stdout.
 - `_printhex.c`<br>
